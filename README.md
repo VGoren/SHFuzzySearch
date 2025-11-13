@@ -11,3 +11,7 @@ TESTING:
 REQUIRMENTS:
 
 SQL Server 2005 and higher (.NET Framework 3.5)
+
+ADDITIONAL INFORMATION: 
+
+https://habr.com/ru/articles/965934/
